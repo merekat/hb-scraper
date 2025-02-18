@@ -1,9 +1,101 @@
-id,vip,name,cik,filed
-1,Bill Ackman,Pershing Square Capital Management,1336528,2024-11-14
-2,Warren Buffett,Berkshire Hathaway,1067983,2024-11-14
-3,Tom Gayner,Markel Corporation,1096343,2024-11-01
-4,Tony Guerrerio and David Rolfe,Wedgewood Partners,859804,2024-11-14
-5,Mason Hawkins,Southeastern Asset Management,807985,2024-11-14
-6,John Paulson,Paulson & Co.,1035674,2024-11-14
-7,Prem Watsa,Fairfax Financial Holdings,915191,2024-11-14
-8,Wally Weitz,Wallace R. Weitz & Company,883965,2024-11-12
+id,vip,name,cik,filed,size
+1,Larry Fink,BlackRock Finance Inc,1364742,,9400
+2,Dennis Stattman,BlackRock Inc,2012383,,9400
+3,Tim Buckley,Vanguard Group Inc,102909,,8200
+4,Abigail Johnson,FMR LLC,315066,,4700
+5,Ron O’Hanley,State Street Corporation,93751,,4000
+6,Jamie Dimon,JPMorgan Chase & Co.,19617,,3800
+7,Ralph Hamers,UBS Group AG,1610520,,3100
+8,Tim Armour,Capital Research and Management Co,17283,,2600
+9,Brian Moynihan,Bank of America Corporation,70858,,2500
+10,David Solomon,Goldman Sachs Group Inc,886982,,2500
+11,Marty Flanagan,Invesco Ltd.,914208,,1600
+12,Michel Khalaf,MetLife Inc,1099219,,1500
+13,Jennifer Johnson,Franklin Resources Inc,38777,,1400
+14,Michael O’Grady,Northern Trust Corporation,73124,,1400
+15,Charles Lowrey,Prudential Financial Inc,1137774,,1400
+16,Christian Sewing,Deutsche Bank AG,1159508,,1300
+17,Jim Cracchiolo,Ameriprise Financial Inc,820027,,1200
+18,C.S. Venkatakrishnan,Barclays PLC,312070,,1200
+19,Roy Gori,Manulife Financial Corp,1086888,,1200
+20,Jean Hynes,Wellington Management Co LLP,1633863,,1200
+21,Steve Schwarzman,Blackstone Group Inc,1393818,,1000
+22,Noel Quinn,HSBC Holdings PLC,1089113,,1000
+23,Kevin Strain,Sun Life Financial Inc,1097362,,1000
+24,Walt Bettinger,Deutsche DWS International Fund Inc,88053,,900
+25,Warren Buffett,Berkshire Hathaway,1067983,,750
+26,Daniel Houston,Principal Financial Group Inc,1126328,,700
+27,Marc Rowan,Apollo Asset Management Inc,1411494,,600
+28,Shemara Wikramanayake,Macquarie Group Ltd,1418333,,600
+29,Michael Roberge,Massachusetts Investors Trust,63091,,600
+30,Craig DeSanto,New York Life Investment Management LLC,1133639,,600
+31,Andreas Utermann,Allianz Asset Management GmbH,1535323,,500
+32,Amanda Blanc,Aviva Investors Americas LLC,1817620,,500
+33,Jean-Laurent Bonnafé,BNP Paribas Asset Management USA Inc,1158011,,500
+34,Thomas Faust,Eaton Vance Management,1076598,,500
+35,Joseph Bae & Scott Nuttall,KKR & Co. Inc,1404912,,500
+36,George Walker,Neuberger Berman Group LLC,1465109,,500
+37,Marco Morelli,AXA Investment Managers US Inc,1920120,,400
+38,Ali Dibadj,Janus Henderson Investors,1274173,,400
+39,Michelle Scrimgeour,Legal & General Investment Management America Inc,1559265,,400
+40,Ken Moelis,Moelis & Company,1411263,,400
+41,Kentaro Okuda,Nomura Holdings Inc,1163653,,400
+42,Diana Strandberg,Dodge & Cox,200217,,350
+43,Ray Dalio,Bridgewater Associates LP,1350694,,125
+44,Ray Dalio,Bridgewater Associates LP,1350694,,125
+45,Cliff Asness,AQR Capital Management LLC,1167557,,100
+46,Mason Hawkins,Southeastern Asset Management,807985,,100
+47,Tony Guerrerio and David Rolfe,Wedgewood Partners,859804,,80
+48,Prem Watsa,Fairfax Financial Holdings,915191,,75
+49,David Shaw,D. E. Shaw & Co. LP,1048445,,70
+50,Israel Englander,Millennium Management LLC,1273087,,65
+51,Ken Griffin,Citadel Advisors LLC,1423053,,63
+52,Paul Marshall,Marshall Wace LLP,1318757,,62
+53,James Simons,Renaissance Technologies LLC,1037389,,60
+54,John Overdeck & David Siegel,Two Sigma Investments LP,1179392,,60
+55,Paul Singer,Elliott Investment Management LP,1791786,,55
+56,Derek Kaufman,Fortress Investment Group LLC,1380393,,53
+57,Philippe Laffont,Coatue Management LLC,1135730,,50
+58,David Brown,Oak Hill Advisors LP,1164688,,50
+59,Tom Gayner,Markel Corporation,1096343,,45
+60,Andreas Halvorsen,Viking Global Investors LP,1103804,,45
+61,David Blood,Generation Investment Management LLP,1375534,,40
+62,Stephen Mandel,Lone Pine Capital LLC,1061165,,35
+63,Glenn Dubin,Highbridge Capital Management LLC,919185,,30
+64,David Harding,Winton Group Ltd,1612063,,30
+65,Steven Cohen,Point72 Asset Management LP,1603466,,26
+66,George Soros,Soros Fund Management LLC,1029160,,25
+67,David Warren,Anchorage Capital Group LLC,1300714,,20
+68,Larry Robbins,Glenview Capital Management LLC,1138995,,20
+69,James Dinan,York Capital LLC,879074,,20
+70,David Tepper,Appaloosa LP,1656456,,18
+71,David Tepper,Appaloosa Management LP,1006438,,18
+72,Michael Hintze,CQS,1447946,,18
+73,Bill Ackman,Pershing Square Capital Management,1336528,,18
+74,Louis Bacon,Moore Capital Management LP,1448574,,17
+75,Daniel Loeb,Third Point LLC,1040273,,16
+76,Jeffrey Ubben,ValueAct Capital Management LP,1351069,,16
+77,Michael Platt,BlueCrest Capital Management Ltd,1610880,,15
+78,Wally Weitz,Wallace R. Weitz & Company,883965,,15
+79,Christopher Rokos,Rokos Capital Management LLP,1666335,,14
+80,Michael Gelband,ExodusPoint Capital Management LP,1736225,,13
+81,Robert Gibbins,Autonomy Capital LP,1484153,,12
+82,Alan Howard,Brevan Howard Asset Management LLP,1415453,,12
+83,Paul Tudor Jones,Tudor Investment Corp et AL,923093,,12
+84,Paul Tudor Jones,Tudor Investment Corporation,1080384,,12
+85,David Abrams,Abrams Capital Management LP,1112443,,10
+86,Clint Carlson,Carlson Capital LP,1056973,,10
+87,Dean Takahashi,Element Capital Management LLC,1535630,,10
+88,David Goel,Matrix Capital Management Company LP,1401388,,9
+89,Richard Perry,Perry Capital LP,1769704,,9
+90,David Gallo,Valinor Management LP,1401388,,9
+91,Dhiren Shah,Alight Capital Management LP,1651473,,8
+92,Robert Citrone,Discovery Capital Management LLC / CT,1389507,,8
+93,Julian Robertson,Tiger Management LLC,1027451,,8
+94,David Einhorn,Greenlight Capital Inc,1079114,,7
+95,John Paulson,Paulson & Co. Inc,1035674,,7
+96,Boaz Weinstein,Saba Capital Management LP,1510281,,7
+97,David Thomas,Atalan Capital Partners LP,1662906,,6
+98,Joel Greenblatt,Gotham Asset Management LLC,1510387,,6
+99,Barry Rosenstein,JANA Partners LLC,1159159,,6
+100,John Griffin,Blue Ridge Capital Fund LLC,2023701,,5
