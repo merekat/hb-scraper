@@ -1,21 +1,75 @@
-Election Date,Governing Parties,start_price Before (%),end_price After (%)
-1949-08-14,"CDU/CSU, FDP, DP",,
-1953-09-06,"CDU/CSU, FDP, DP, GB/BHE",,
-1957-09-15,"CDU/CSU, DP",,
-1961-09-17,"CDU/CSU, FDP",,
-1965-09-19,"CDU/CSU, SPD",,
-1969-09-28,"SPD, FDP",,
-1972-11-19,"SPD, FDP",,
-1976-10-03,"SPD, FDP",,
-1980-10-05,"SPD, FDP",,
-1983-03-06,"CDU/CSU, FDP",,
-1987-01-25,"CDU/CSU, FDP",,
-1990-12-02,"CDU/CSU, FDP",1458.28,1574.77
-1994-10-16,"CDU/CSU, FDP",2048.56,2058.2
-1998-09-27,"SPD, Greens",4439.13,4666.74
-2002-09-22,"SPD, Greens",3319.05,3077.06
-2005-09-18,"CDU/CSU, SPD",4989.98,5282.13
-2009-09-27,"CDU/CSU, FDP",5668.65,5831.21
-2013-09-22,"CDU/CSU, SPD",8613.0,9006.46
-2017-09-24,"CDU/CSU, SPD",12559.39,13103.56
-2021-09-26,"SPD, Greens, FDP",15132.06,15531.69
+Election Date,Governing Parties,Start Price,Mid Price,End Price
+1949-08-14,"CDU/CSU, FDP, DP",,,
+1953-09-06,"CDU/CSU, FDP, DP, GB/BHE",,,
+1957-09-15,"CDU/CSU, DP",,,
+1961-09-17,"CDU/CSU, FDP",,,
+1965-09-19,"CDU/CSU, SPD",,,
+1969-09-28,"SPD, FDP",,,
+1972-11-19,"SPD, FDP",,,
+1976-10-03,"SPD, FDP",,,
+1980-10-05,"SPD, FDP",,,
+1983-03-06,"CDU/CSU, FDP",,,
+1987-01-25,"CDU/CSU, FDP",,,
+1990-12-02,"CDU/CSU, FDP","Ticker
+^GDAXI    1474.160034
+Name: 1990-10-22 00:00:00, dtype: float64","Ticker
+^GDAXI    1466.400024
+Name: 1990-12-03 00:00:00, dtype: float64","Ticker
+^GDAXI    1377.48999
+Name: 1991-01-11 00:00:00, dtype: float64"
+1994-10-16,"CDU/CSU, FDP","Ticker
+^GDAXI    2173.600098
+Name: 1994-09-05 00:00:00, dtype: float64","Ticker
+^GDAXI    2095.580078
+Name: 1994-10-17 00:00:00, dtype: float64","Ticker
+^GDAXI    2056.27002
+Name: 1994-11-25 00:00:00, dtype: float64"
+1998-09-27,"SPD, Greens","Ticker
+^GDAXI    5432.029785
+Name: 1998-08-17 00:00:00, dtype: float64","Ticker
+^GDAXI    4677.560059
+Name: 1998-09-28 00:00:00, dtype: float64","Ticker
+^GDAXI    4809.72998
+Name: 1998-11-06 00:00:00, dtype: float64"
+2002-09-22,"SPD, Greens","Ticker
+^GDAXI    3647.129883
+Name: 2002-08-12 00:00:00, dtype: float64","Ticker
+^GDAXI    2914.25
+Name: 2002-09-23 00:00:00, dtype: float64","Ticker
+^GDAXI    3165.159912
+Name: 2002-11-01 00:00:00, dtype: float64"
+2005-09-18,"CDU/CSU, SPD","Ticker
+^GDAXI    4837.859863
+Name: 2005-08-08 00:00:00, dtype: float64","Ticker
+^GDAXI    4926.129883
+Name: 2005-09-19 00:00:00, dtype: float64","Ticker
+^GDAXI    4825.640137
+Name: 2005-10-28 00:00:00, dtype: float64"
+2009-09-27,"CDU/CSU, FDP","Ticker
+^GDAXI    5201.609863
+Name: 2009-08-17 00:00:00, dtype: float64","Ticker
+^GDAXI    5736.310059
+Name: 2009-09-28 00:00:00, dtype: float64","Ticker
+^GDAXI    5488.25
+Name: 2009-11-06 00:00:00, dtype: float64"
+2013-09-22,"CDU/CSU, SPD","Ticker
+^GDAXI    8359.25
+Name: 2013-08-12 00:00:00, dtype: float64","Ticker
+^GDAXI    8635.290039
+Name: 2013-09-23 00:00:00, dtype: float64","Ticker
+^GDAXI    9007.830078
+Name: 2013-11-01 00:00:00, dtype: float64"
+2017-09-24,"CDU/CSU, SPD","Ticker
+^GDAXI    12165.120117
+Name: 2017-08-14 00:00:00, dtype: float64","Ticker
+^GDAXI    12594.80957
+Name: 2017-09-25 00:00:00, dtype: float64","Ticker
+^GDAXI    13478.860352
+Name: 2017-11-03 00:00:00, dtype: float64"
+2021-09-26,"SPD, Greens, FDP","Ticker
+^GDAXI    15925.730469
+Name: 2021-08-16 00:00:00, dtype: float64","Ticker
+^GDAXI    15573.879883
+Name: 2021-09-27 00:00:00, dtype: float64","Ticker
+^GDAXI    16054.360352
+Name: 2021-11-05 00:00:00, dtype: float64"
